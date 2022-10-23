@@ -1,5 +1,0 @@
-COMMAND
-pip install notebook
-
-RUN
-jupyter notebook
